@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\jakub\source\repos\sortowanie\consoleapplication2\main.cpp(36): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\jakub\source\repos\sortowanie\consoleapplication2\main.cpp(22): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\jakub\source\repos\sortowanie\consoleapplication2\sortowanie.h(344): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  c:\users\jakub\source\repos\sortowanie\consoleapplication2\sortowanie.h(343): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\jakub\source\repos\sortowanie\consoleapplication2\main.cpp(51): note: zobacz odwołanie do funkcji szablon; wystąpienie „T *Sortowanie<T>::stworz_tablice(int,double,char)” jest kompilowane
+          with
+          [
+              T=int
+          ]
+  c:\users\jakub\source\repos\sortowanie\consoleapplication2\main.cpp(51): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „Sortowanie<int>” jest kompilowane
+c:\users\jakub\source\repos\sortowanie\consoleapplication2\sortowanie.h(315): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  c:\users\jakub\source\repos\sortowanie\consoleapplication2\sortowanie.h(314): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\jakub\source\repos\sortowanie\consoleapplication2\main.cpp(73): note: zobacz odwołanie do funkcji szablon; wystąpienie „void Sortowanie<int>::sort(T [],int,int)” jest kompilowane
+          with
+          [
+              T=int
+          ]
+  ConsoleApplication2.vcxproj -> C:\Users\Jakub\source\repos\Sortowanie\Debug\ConsoleApplication2.exe
